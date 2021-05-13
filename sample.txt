@@ -1,4 +1,4 @@
 Hello World!
 What are you doing?
 
-Good bye World!
+Good bye!
